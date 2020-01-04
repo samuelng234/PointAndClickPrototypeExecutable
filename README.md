@@ -1,5 +1,5 @@
 # PointAndClickPrototypeExecutable
 
-KEYS:
-MOVE LEFT  - 'A'
+KEYS:\n
+MOVE LEFT  - 'A'\n
 MOVE RIGHT - 'D'
